@@ -2,3 +2,6 @@
 testgithub
 
 #include<studio.h>
+main(){
+  
+}
